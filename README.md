@@ -21,6 +21,8 @@ termux-setup-storage
 
 If you are using a Linux shell, keep in mind that this program only works on version 3 of python.
 
+If programm has stopped enter Ctrl + C.
+
 -------------------------------------------------
 
 РУССКАЯ ВЕРСИЯ README.txt
@@ -44,3 +46,5 @@ pip install argparse
 termux-setup-storage
 
 Если ты используешь оболочку Linux то имей ввиду что данная программа работает только на 3 версии python.
+
+Если программа остановилась введи Ctrl + C.
